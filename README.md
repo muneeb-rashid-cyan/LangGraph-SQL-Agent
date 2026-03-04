@@ -179,7 +179,7 @@ LANGCHAIN_PROJECT=LangGraph-SQL-Agent
 - Python 3.10+
 - OpenAI API key
 
----
+--
 
 ## Tech Stack
 
@@ -187,3 +187,5 @@ LANGCHAIN_PROJECT=LangGraph-SQL-Agent
 - [LangChain](https://github.com/langchain-ai/langchain) `>=0.3.24`
 - [LangChain OpenAI](https://github.com/langchain-ai/langchain/tree/master/libs/partners/openai)
 - SQLite (built into Python)
+
+
