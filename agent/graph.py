@@ -87,3 +87,4 @@ def build_graph():
 
 # Module-level singleton — imported by main.py
 graph = build_graph()
+print("=========TEXT==============",graph.get_graph().draw_mermaid())

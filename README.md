@@ -54,6 +54,7 @@ START
                             └── revision  → [agent]
 ```
 
+![Graph Architecture](graph_diagram.png)     
 ---
 
 ## Project Structure
